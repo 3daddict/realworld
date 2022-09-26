@@ -1,5 +1,6 @@
 <script>
-	import { page, session } from '$app/stores';
+	import { page } from '$app/stores';
+	import { session } from '../stores/sessions';
 </script>
 
 <nav class="navbar navbar-light">

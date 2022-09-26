@@ -1,5 +1,5 @@
 <script>
-	import { session } from '$app/stores';
+	import { session } from '../../stores/sessions';
 	import ArticlePreview from './ArticlePreview.svelte';
 
 	export let articles;
